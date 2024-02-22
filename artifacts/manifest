@@ -1,0 +1,16 @@
+[
+    {
+        "name": "LogicEngine-24.02.22",
+        "branch": "24.02.22",
+        "description": "### 2024 Feb 22",
+        "url": "https://github.com/reeltwo/WLogicEngine32/releases/download/24.02.22/LEngine.bin",
+        "zipfile": "https://github.com/reeltwo/WLogicEngine32/releases/download/24.02.22/LEngine.zip",
+        "release_details": {
+            "version": "24.02.22",
+            "idf": "v4.3",
+            "platform": "LogicEngine",
+            "branch": "24.02.22"
+        },
+        "manifest_name": "LogicEngine-24.02.22-manifest.json"
+    }
+]
